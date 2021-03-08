@@ -1,0 +1,1 @@
+# mysql_sys.wait_classes_global_by_avg_latency
